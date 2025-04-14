@@ -1,5 +1,4 @@
-[BFS_code.py](./BFS_code.py)  
-[README.md](./README.md)  
+[BFS_code.py](./BFS_code.py)    
 [binary_search_array_iterative.py](./binary_search_array_iterative.py)  
 [binary_search_array_recursive.py](./binary_search_array_recursive.py)  
 [bubble_sort.py](./bubble_sort.py)  
